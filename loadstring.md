@@ -11,5 +11,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/nonfq/scripts/main/Un
 -- Mobile
 -- Console
 getgenv_device =
-loadstring(game:HttpGet("https://raw.githubusercontent.com/nondevelopers/device-spoof/main/source.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nonfq/scripts/main/Universal/devicespoof-source.luau"))()
 ```
